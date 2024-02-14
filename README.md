@@ -12,15 +12,8 @@ Información Detallada: Encontrarás información detallada sobre nuestros servi
 
 Formulario de Contacto: Para facilitar la comunicación con nuestros clientes potenciales, hemos incluido un formulario de contacto donde los visitantes pueden dejar sus datos y consultas. Nos comprometemos a responder de manera rápida y eficiente a todas las consultas recibidas.
 
-¿Cómo utilizar este repositorio?
-Clonar el Repositorio: Puedes clonar este repositorio utilizando el siguiente comando:
-bash
-Copy code
-git clone https://github.com/TU_USUARIO/procaldas-presence.git
-Explorar el Código: Una vez clonado el repositorio, puedes explorar el código fuente del sitio web en HTML, CSS y JavaScript. Siéntete libre de examinar y modificar el código según tus necesidades.
-
-Despliegue: Si deseas desplegar el sitio web en tu propio servidor, simplemente copia los archivos a tu servidor web y asegúrate de configurar adecuadamente el archivo index.html como página de inicio.
 
 Enlaces Útiles:
 Sitio Web en Vivo: Visita nuestro sitio web en vivo para conocer más sobre nuestros servicios y cómo podemos ayudarte a potenciar tu presencia en línea.
+https://procaldaspresence.com
 
